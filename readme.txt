@@ -12,7 +12,7 @@ performance for comparison.
 Required for use: Python 3.0 or later version must be installed.
 
 To run in Windows command line:
-Double-click the knapsack_problem.py file or navigate to the file's directory and
+Double-click the mst.py file or navigate to the file's directory and
 enter "mst.py".
 
 To run in IDLE Python Shell:
